@@ -1,0 +1,59 @@
+summary
+inventory
+beginners
+types
+add scooter
+SC-17
+Пульс
+не число
+11
+6
+не знаю
+да
+да
+-1
+1E+2147483647
+0,45
+add bike
+BI-04
+Городской
+5
+да
+да
+add ebike
+EB-09
+Вектор
+9
+да
+да
+0.825
+add helmet
+HE-03
+Защитный шлем
+add cabinet
+CH-02
+Шкаф у корпуса
+1.125
+add scooter
+RETRY-1
+Требует ремонта
+10
+нет
+нет
+0.5
+add bike
+RETRY-1
+После ремонта
+6
+да
+да
+add helmet
+SC-17
+Дубликат
+add unknown
+summary
+beginners
+inventory
+wrong
+help
+exit
