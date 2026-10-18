@@ -187,3 +187,6 @@ Windows: `gradlew.bat --quiet --console=plain run`.
 Результаты: `build/reports/tests/test/index.html`.
 Покрытие: `build/reports/jacoco/test/html/index.html`.
 Стиль: `build/reports/checkstyle/main.html` и `test.html`.
+
+
+*ИИ был использован для частичного написания readme создания конфига @bean, парсера и написания примитивных методов
